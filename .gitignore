@@ -1,0 +1,5 @@
+# Binary
+*.out
+
+# MacOS folders
+.DS_Store
